@@ -4,4 +4,4 @@ Excels:
 GridScale refers to the summery figures by different scale
 PossibilityResult20221031_DiffGrid refers detailed info of different scale
 PaperComp refers to summery of comparison between paper and this work with a line graph
-Possibility Result20221024 refers to different input number accuracy
+CAMC_DifferentInputNo.xlsx refers to different input number accuracy
