@@ -3,4 +3,5 @@ In training, grid-scale, sample_no and training noise could be changed.
 
 Then run Inference,
 please change the M on line 66 to test different PSK modulations
+also could change noise to test under differnt SNR
 or comment line 66-77 and uncomment line 87-95 to test 16QAM
